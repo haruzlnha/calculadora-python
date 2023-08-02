@@ -1,6 +1,6 @@
 # Calculadora em Python
 
-<img src="python3.11_4WuVRsOn1q.png">
+<img src="python3.11_4WuVRaOn1q.png">
 
 > Calculadora simples de Python com interface. Feita com a ferramenta tkinter.
 
